@@ -1,3 +1,3 @@
-class conv{
+class Converter{
 
 };
